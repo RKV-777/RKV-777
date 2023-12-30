@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RATNESH -AKA- RKV
+- 👋 Hi, I’m @RATNESH <-AKA-> RKV-777
 - 👀 I’m interested in Programming and developing something big (it's a game)
 - 🌱 I’m currently learning CSE
 - 💞️ In a few years, I've developed such a high level of skill that everyone asks me for collaboration 
